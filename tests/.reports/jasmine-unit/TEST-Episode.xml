@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Episode" errors="0" tests="1" failures="0" time="0.001" timestamp="2014-07-03T15:24:27">
+  <testcase classname="Episode" name="@slugify" time="0.001"></testcase>
+</testsuite>
+</testsuites>

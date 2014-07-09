@@ -15,3 +15,6 @@ accounts-password
 handlebars-server
 blaze-layout
 minimongoid
+jasmine-unit
+velocity-html-reporter
+mocha-web
